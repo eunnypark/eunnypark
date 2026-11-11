@@ -1,9 +1,30 @@
-## Hi there 👋
 
-<!--
-**eunnypark/eunnypark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Hyeyoon!
 
-Here are some ideas to get you started:
+I'm a university student majoring in Physics & Astronomy
+and double majoring in Computer Science.
+
+I'm interested in:
+- Machine Learning
+- Scientific Computing
+- Software Development
+
+## Currently Learning
+- Python
+- Machine Learning with Scikit-learn
+- Data Analysis
+
+## Tech Stack
+- Languages: Python, Kotlin, C
+- Tools: Git, GitHub, Google Colab
+
+## Projects
+More projects coming soon!
+
+## About Me
+I'm exploring the intersection of physics and computer science
+and building practical projects to develop my skills.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
